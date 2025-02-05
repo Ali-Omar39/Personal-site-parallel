@@ -441,7 +441,7 @@ h1:nth-child(3){
         justify-content: left;
     }
 }
-@media(min-width:600px){
+@media(max-width:600px){
     body{
         width: 100%;
     }
