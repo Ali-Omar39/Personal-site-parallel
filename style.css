@@ -442,6 +442,9 @@ h1:nth-child(3){
     }
 }
 @media(min-width:600px){
+    body{
+        width: 100%;
+    }
     .navitem{
         display: flex;
         justify-content: left;
